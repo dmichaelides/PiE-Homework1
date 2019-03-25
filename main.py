@@ -1,11 +1,11 @@
 """
-HEADING - 'Python-is-Easy' Homework #1 (Variables)
+'Python-is-Easy' Homework #1 (Variables)
 DESCRIPTION: 
 The main goal of this file created, is to get acquianted with variables in Python.  It is the first homework assigment in the
 'Python is Easy' course, from Pirple.
 
 The details below are attributes to a song, which have been created as variables in the file.
-P.S. This is not really my best song of all time.
+P.S. This is not really my best song of all time, but is one of my favourite. 
 """
 
 Title = "In the End" # This is the name of the song.
